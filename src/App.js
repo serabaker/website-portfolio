@@ -12,7 +12,7 @@ function App() {
         </div>
 
         <ul className="ui">
-          <li className="li">
+          <li id="projects" className="li">
             {" "}
             <span className="span">Projects</span>
           </li>
