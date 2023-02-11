@@ -12,12 +12,12 @@
   /* border: solid red 1px; */
   margin: 4px;
   /* padding: 20px; */
-  background-color: #eaded7;
+  background-color: #e8b19b;
 }
 
 .projects-h1 {
   letter-spacing: 8px;
-  color: #72b8c0;
+  color: #3e5641;
   font-family: "Baskervville", serif;
   display: flex;
   text-transform: lowercase;
