@@ -16,11 +16,11 @@ function App() {
             {" "}
             <span className="span">Projects</span>
           </li>
-          <li className="li">
+          <li id="blog" className="li">
             {" "}
             <span className="span">Blog</span>
           </li>
-          <li className="li">
+          <li id="contact" className="li">
             {" "}
             <span className="span">Contact</span>
           </li>
