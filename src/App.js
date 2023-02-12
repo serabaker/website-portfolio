@@ -12,15 +12,15 @@ function App() {
         </div>
 
         <ul className="ui">
-          <li id="projects" className="li">
+          <li id="#projects" className="li">
             {" "}
             <span className="span">Projects</span>
           </li>
-          <li id="blog" className="li">
+          <li id="#blog" className="li">
             {" "}
             <span className="span">Blog</span>
           </li>
-          <li id="contact" className="li">
+          <li id="#contact" className="li">
             {" "}
             <span className="span">Contact</span>
           </li>
