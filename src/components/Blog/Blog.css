@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.blog-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: auto;
+  /* border: solid red 1px; */
+  margin: 4px;
+  /* padding: 20px; */
+  background-color: #ebc9c2;
+}
+.blog-wrapper {
+}
